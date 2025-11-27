@@ -1,0 +1,25 @@
+fastapi
+uvicorn
+python-multipart
+jinja2
+pymongo
+beautifulsoup4
+numpy
+sounddevice
+soundfile
+scipy
+opencv-python
+pyttsx3nt
+deepface
+SpeechRecognition
+google-generativeai
+requests
+starlette
+pyaudio
+gtts
+tf-keras
+
+# Add these to your requirements.txt file
+
+reportlab>=3.6.12
+Pillow>=10.0.0
